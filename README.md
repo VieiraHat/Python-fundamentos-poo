@@ -26,7 +26,7 @@ com exercícios práticos de Programação Orientada a Objetos (POO).
 
 No terminal, execute:
 
-python3 exercicios/03_sistema_biblioteca.py
+python3 exercícios/03_sistema_biblioteca.py
 
 ## Objetivo
 
